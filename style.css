@@ -1,0 +1,280 @@
+* {
+	
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Poppins', sans-serif;
+}
+
+body {
+	
+	background-color: #140424;
+}
+
+img {
+	
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+
+	text-decoration: none;
+	color: black;
+}
+
+h1 {
+
+	color: #27F293;
+	padding: 3%;
+}
+
+/*--------------- Header y menu ---------------*/
+header {
+	
+	width: 100%; 
+	display: inline-block;
+}
+
+#container-logo {
+	
+	float: left;
+    width: 14%;
+    padding: 1% 0 0 6%;
+	margin: auto;
+	position: absolute;
+}
+
+#menu {
+	
+	width: 30%;
+	float: left;
+	margin-left: 650px;
+}
+
+/* Buttons */
+
+/* Menu buttons */
+.btn-dropdown {
+	
+	background: none;
+	margin: 10% 7% 0 0;
+	position: relative;
+	float: left;
+	font-size: 14px;
+	padding: 2%;
+	color:  white;
+	border: none;
+	z-index: 1;
+}
+
+.btn-dropdown:after {
+	
+	background: none repeat scroll 0 0 transparent;
+	content: "";
+	display: block;
+	height: 2px;
+	left: 50%;
+	background: #27F293;
+	transition: width 0.3s ease 0s, left 0.3s ease 0s;
+	width: 0;	
+}
+
+.btn-dropdown:hover::after { 
+   
+	width: 100%; 
+	left: 0; 
+}
+ 
+#list-dropdown-content-comp {
+
+	position: absolute;
+	display: none;
+    background-color: #E85DE3;
+    width: 92%;
+    padding: 40% 9% 16% 19%;
+    margin: 0 auto;
+    left: -17px;
+    top: -12px;
+    z-index: -1;
+}
+
+.btn-dropdown:hover #list-dropdown-content-comp{
+
+	display: block;
+}
+
+.link-consola {
+
+	padding: 2%;
+	display:block;
+	text-align: center;
+	width:85%;
+}
+
+.btn-dropdown:hover #list-dropdown-content-comp .link-consola:hover {
+
+	background-color: #4C2BD0;
+}
+
+/* Coffee Button */ 
+
+.btn-coffee {
+
+	position: relative;
+  	display: block;
+  	color: white;
+	margin: 2% 0 0 0;
+	border: 2px solid #BF49F2;
+  	border-radius: 50px;
+ 	padding: 1%;
+	overflow: hidden;
+	width: 15%;
+	text-decoration: none;
+	text-align: center;
+}
+
+.btn-coffee::before{
+
+	background: #BF49F2;
+ 	content: "";
+ 	position: absolute;
+  	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	z-index: -1;
+	transition: all 0.6s ease;
+	width: 0%;
+	height: 100%;
+}
+
+.btn-coffee:hover::before{
+  width: 100%;
+}
+
+/* -------------- Contenedor base -------------- */
+.cont-base {
+	
+	width: 90%;
+	margin: 0 auto;
+}
+
+/* -------------- Contenedor diagonales -------------- */
+#container-juegos-online {
+	
+	width: 100%; 
+	display: inline-block;
+}
+
+.container-diagonal {
+	
+	float: left;
+	width: 200px;
+	height: 400px;
+	clip-path: polygon(15% 0, 100% 0%, 85% 100%, 0% 100%);
+	background: #C4C4C4;
+}
+
+.container-diagonal:hover {
+	
+	background: #27F293;
+	transform: translate(10px, -40px);
+}
+
+/* -------------- Contenedor compañías -------------- */
+#container-companias {
+	
+	width: 60%; 
+	padding: 5%;
+	margin: 0 auto 15%;
+	background-color: #440B6A;
+}
+
+.container-circular {
+	
+	width: 100px;
+	float: left;
+	margin: 4%;
+	height: 100px;
+	background: blue;
+	-webkit-clip-path: circle(50% at 50% 50%);
+}
+
+.container-circular:hover {
+	
+	background: red;
+}
+
+
+
+/* ------------------- FOOTER ------------------- */
+footer {
+
+	width: 100%;
+	overflow: hidden;
+	background-color: #440B6A;
+	color: #27F293;
+	margin: auto;
+}
+
+#content-footer {
+
+	width: 90%;
+	padding: 2%;
+	overflow: hidden;
+	margin: auto;
+}
+
+#linea-vertical {
+
+	float: left;
+	background-color: #27F293;
+	width: 1px;
+  	height: 200px;
+}
+
+.redes {
+
+	float: left;
+	width: 40%;
+	margin: 0 0 0 10%;
+}
+
+.mapa-del-sitio {
+
+	margin: 1% 3% 1% 3%;
+	width: 30%;
+	float: left;
+}
+
+.imgs-redes {
+
+	width: 50%;
+	margin: auto;
+}
+
+.red {
+
+	float: left;
+	margin: 5% 10% 5% 10%;
+}
+
+.logo-footer {
+	
+	float: left;
+	margin: 5% 10% 5% 10%;
+	padding:  auto 2%;
+}
+
+.links-menu-footer {
+
+	text-decoration: none;
+	color: #27F293;
+	padding: 7%;
+}
+
+.enter-email {
+
+	height: 40px;
+	width: 90%;
+	margin: 10% auto;
+}
