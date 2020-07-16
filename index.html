@@ -2,31 +2,30 @@
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
-	<title>GoodGames.com</title>
-	<!--<script src="./utiles.js"></script>-->
-	<script src="scripts.js"></script>
+	<title>Mi colección de juegos</title>
+	<script src="./utiles.js"></script>
 	<link rel="stylesheet" href="style.css">
 	<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
 </head>
 <body>
 	
 	<header>
-		<div id="container-logo">
-			<a href="index.html"><img src="rsc/logo.png"></a>
-		</div>	
-			
+		<a href="index.html">
+			<div id="container-logo">
+				<h1>Mi colección</h1>
+			</div>	
+		</a>
+		
 		<nav id="menu">
 
 			<div id="dropdown-content-comp">
 				<span class="btn-dropdown">
 					Juegos por consola
 					<div id="list-dropdown-content-comp">
-						<a href="#"><span class="link-consola">Playstation</span></a>
-						<a href="#"><span class="link-consola">XBox</span></a>
-						<a href="#"><span class="link-consola">Wii</span></a>
-						<a href="#"><span class="link-consola">Switch</span></a>
-						<a href="#"><span class="link-consola">PC</span></a>
-						<a href="#"><span class="link-consola">Gameboy</span></a>
+						<a href="javascript:filtrar('Playstation')"><span class="link-consola">Playstation</span></a>
+						<a href="javascript:filtrar('Xbox One')"><span class="link-consola">Xbox One</span></a>
+						<a href="javascript:filtrar('Nintendo Switch')"><span class="link-consola">Switch</span></a>
+						<a href="javascript:filtrar('PC')"><span class="link-consola">PC</span></a>
 					</div>
 				</span>
 			</div>
@@ -35,82 +34,130 @@
 				<span class="btn-dropdown">
 					Juegos por género
 					<div id="list-dropdown-content-comp">
-						<a href="#"><span class="link-consola">Acción</span></a>
-						<a href="#"><span class="link-consola">Aventura</span></a>
-						<a href="#"><span class="link-consola">Carreras</span></a>
-						<a href="#"><span class="link-consola">Estrategia</span></a>
-						<a href="#"><span class="link-consola">Simulación</span></a>
-						<a href="#"><span class="link-consola">Shooter</span></a>
-						<a href="#"><span class="link-consola">Deporte</span></a>
-						<a href="#"><span class="link-consola">Rol</span></a>
+						<a href="javascript:filtrar('Acción-Aventura')"><span class="link-consola">Acción-Aventura</span></a>
+						<a href="javascript:filtrar('ARPG')"><span class="link-consola">ARPG</span></a>
+						<a href="javascript:filtrar('Carreras')"><span class="link-consola">Carreras</span></a>
+						<a href="javascript:filtrar('FPS')"><span class="link-consola">FPS</span></a>
+						<a href="javascript:filtrar('Hack and Slash')"><span class="link-consola">Hack and Slash</span></a>
+						<a href="javascript:filtrar('Online')"><span class="link-consola">Online</span></a>
+						<a href="javascript:filtrar('Plataformas')"><span class="link-consola">Plataformas</span></a>
+						<a href="javascript:filtrar('Pelea')"><span class="link-consola">Pelea</span></a>
+						<a href="javascript:filtrar('Puzzle')"><span class="link-consola">Puzzle</span></a>
+						<a href="javascript:filtrar('Ritmo')"><span class="link-consola">Ritmo</span></a>
+						<a href="javascript:filtrar('Carreras')"><span class="link-consola">Rol</span></a>
+						<a href="javascript:filtrar('Shooter')"><span class="link-consola">Shooter</span></a>
+						<a href="javascript:filtrar('Simulador')"><span class="link-consola">Simulador</span></a>
+						<a href="javascript:filtrar('Simulador')"><span class="link-consola">Supervivencia</span></a>
 					</div>
 				</span>
 			</div>
-			<div class="serch-icon"></div>
 		</nav> 	
-		<a href="#" class="btn-coffee">Buy us a coffee</a>
+		<a href="https://www.buymeacoffee.com/queremosunlatte?new=1" class="btn-coffee">Buy us a coffee</a>
 	</header>
 	
-	<div class="cont-base">
-		<div id="container-juegos-online">
-			<h1>TOP Juegos online</h1>
-		</div>
-	</div>
+	<div class="cont-base">	
 	
-	<div class="cont-base">
-		<div id="container-companias">
-			<h1>Juegos por compañía</h1>
+		<button id="back_tt_btn" onclick="topFunction()">Top!</button>
+		<div id="container-juegos">
+			
+			<h1>Tus juegos <span id="tipo-juego"></span></h1>
+			
+			<div id="idJuegos" modelo="idJuegos_todos" origen="./base_juegos.json"> 
+				<div class="container-rectangular">
+					<img class="portada-juego" src={portada}>
+					<div class="texto-tarjeta">
+						
+						<h4><strong>Nombre</strong></h4>
+						<p> {nombre}</p>
+						<h4><strong>Plataforma</strong></h4>
+						<p> {plataforma}</p>
+						<h4><strong>Género</strong></h4>
+						<p> {genero}</p>
+						<h4><strong>Año</strong></h4>
+						<p> {anio}</p>
+					</div>
+					
+					<div id="container-rectangular-overlay">
+						<div class="cont-overlay">
+							<div class="texto-overlay">
+								<h2><strong>{nombre}</strong></h2>
+								<br>
+								<p>{descripcion}</p>
+							</div>
+							<iframe src="{act_yt([trailer])}" class="trailer_juego" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
 	</div>
+
+	<script>
+	
+		// Función para modificar el link de YT.
+		function act_yt(link) {
+			
+			return link.replace("/watch?v=", "/embed/");
+		}
+		
+		// Función que cambia el fondo del documento
+		// según la consola.
+		function cambiar_fondo(filtro) {
+				
+			if (filtro == 'Xbox One') {document.body.style.backgroundColor ="#068A00";}
+			else if (filtro == 'Playstation') {document.body.style.backgroundColor ="#070378";}
+			else if(filtro == 'Nintendo Switch') {document.body.style.backgroundColor ="#B00000";}
+			else if (filtro == 'PC') {document.body.style.backgroundColor ="#E16904";}
+			else {document.body.style.backgroundColor = "#F24464";}
+		}
+		
+		// Funcion para filtrar por consola o genero
+		function filtrar(filtro) {
+			
+			let juegos = idJuegos_todos.children;
+			document.getElementById("tipo-juego").innerHTML = "-> " + filtro;
+			
+			cambiar_fondo(filtro);
+			
+			for(var i = 0; i < juegos.length ; i++) { 
+					
+				if( juegos[i].innerHTML.includes(filtro) ) { 
+					juegos[i].style.display = "block" ; 
+				}
+				else { 
+					juegos[i].style.display = "none"; 
+				}
+			}
+		}
+	
+		// Botón para volver arriba -> Aparece
+		let $btn_scroll = document.getElementById("back_tt_btn");
+		
+		window.onscroll = function() {
+			
+			if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+				$btn_scroll.style.display = "block";
+			} else {
+			    $btn_scroll.style.display = "none";
+			}
+				
+		};
+		
+		// Botón para volver arriba -> Vuelve arriba
+		function topFunction() {
+		
+		  document.body.scrollTop = 0;
+		  document.documentElement.scrollTop = 0;
+		}
+				
+	</script>
 	
 	<footer>
 		<div id="content-footer">
-			<div class="redes">
-
-				<div class="img-logo">
-					<a href="index.html"><img src="rsc/logo.png" class="logo-footer"></a>
-				</div>
-
-				<div class="imgs-redes">
-					<a href="https://www.instagram.com/"><img src="rsc/instagram.png" class="red"></a>
-					<a href="https://www.facebook.com/"><img src="rsc/facebook.png" class="red"></a>
-					<a href="https://twitter.com/home"><img src="rsc/twitter.png" class="red"></a>
-				</div>
-
-			</div>
-			<div id="linea-vertical"></div>
 			
-			<div class="mapa-del-sitio">
-				
-				<a class="links-menu-footer" href="#">About</a>
-				<a class="links-menu-footer" href="#">FAQ</a>
-				<a class="links-menu-footer" href="#">Contact us</a>
-
-				<input type="email" class="enter-email" placeholder="Enter e-mail">
-				<button id="btn-tipo2">Subtmit!</button>
-			</div>
+			<img src="rsc/vaporglitch.jpg" width="100%">
 			
 		</div>
 	</footer> 
-
-	<div id="idJuegos"
-		modelo="idJuegos"
-		origen="./juegos.tsv"
-		es="tsv"
-	>
-		<Tabla>
-				<mitad>
-					<img src="{Portada}">
-				</mitad>
-				
-				<mitad>
-					<h2>{Titulo}</h2>
-					
-					<p>Plataforma:{Plataforma}</p>
-					<p>Género:{Genero}</p>
-					<p>Fecha de lanzamiento: {Año de lanzamiento}</p>
-				</mitad>	
-		</Tabla>
-	</div>-->
 </body>
 </html>

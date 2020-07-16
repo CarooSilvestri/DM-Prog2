@@ -1,0 +1,317 @@
+[
+  {
+    "nombre": "Super Mario Odyssey",
+    "plataforma": "Nintendo Switch",
+    "genero": "Plataformas",
+    "anio": "27 de octubre de 2017",
+    "portada": "https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_SuperMarioOdyssey.jpg",
+    "descripcion": "Únete a Mario en una épica aventura en 3D al mejor estilo trotamundos, usa sus nuevas e increíbles habilidades para obtener lunas con las que cargarás la nave Odyssey para así rescatar a la princesa Peach de los malévolos planes de boda de Bowser. Este juego de aventura al estilo libre en 3D, el primero después de Super Mario 64™ (1996) y Super Mario Sunshine™ (2002) viene cargado de secretos y sorpresas, y con los nuevos movimientos como lanzamiento de gorra, salto gorra y captura disfrutarás de una emocionante y novedosa experiencia de juego nunca antes vista en un juego de Mario. ¡Prepárate para ser transportado a extraños e increíbles lugares muy lejos del Reino Champiñón!",
+    "trailer": "https://www.youtube.com/watch?v=5kcdRBHM7kM"
+  },
+  {
+    "nombre": "Gears 5",
+    "plataforma": "Xbox One",
+    "genero": "Shooter",
+    "anio": "6 de septiembre de 2019",
+    "portada": "https://media.vandal.net/i/1200x630/61924/gears-of-war-5-2019652074254_1.jpg",
+    "descripcion": "Gears es una de las sagas más aclamadas del mundo de los videojuegos, y ahora es más grande que nunca, con cinco emocionantes modos y la campaña más intensa hasta la fecha. Con el estallido de una guerra total, Kait Díaz va por su cuenta para desvelar su vínculo con el enemigo y descubre el verdadero peligro para Sera: ella misma.",
+    "trailer": "https://www.youtube.com/watch?v=yQKwkXlCLx4"
+  },
+  {
+    "nombre": "Bloodborne",
+    "plataforma": "Playstation 4",
+    "genero": "ARPG",
+    "anio": "26 de marzo de 2015",
+    "portada": "https://xombitgames.com/files/2014/10/bloodborneportada.jpg",
+    "descripcion": "Enfrenta tus pesadillas mientras buscas respuestas en la antigua ciudad de Yharnam, ahora maldecida por una enfermedad endémica que se propaga por las calles como un fuego arrasador. El peligro, la muerte y la locura merodean en cada esquina de este mundo oscuro y espantoso, y debes descubrir sus secretos más oscuros para poder sobrevivir.",
+    "trailer": "https://www.youtube.com/watch?v=G203e1HhixY"
+  },
+  {
+    "nombre": "Portal 2",
+    "plataforma": "PC",
+    "genero": "FPS",
+    "anio": "18 de abril de 2011",
+    "portada": "https://vignette.wikia.nocookie.net/halflife7283/images/f/f9/Portal2cover.jpg/revision/latest?cb=20150618192608&path-prefix=es",
+    "descripcion": "Portal 2 continúa con esa fórmula ganadora consistente en una innovadora mecánica de juego, historia y música que condujeron al Portal original a ganar más de 70 galardones y lo convirtieron en un nuevo mito de la industria.\n\nEn el modo de un jugador de Portal 2 conoceremos a un nuevo elenco de personajes, gran cantidad de innovadores puzles y un número mucho mayor de enrevesadas salas de pruebas. Los jugadores podrán explorar zonas de Aperture Science Labs nunca vistas anteriormente y volverán a encontrarse a GLaDOS, ese compañero computerizado, y en ocasiones con tendencias asesinas, que los guió a lo largo el juego original.",
+    "trailer": "https://www.youtube.com/watch?v=tax4e4hBBZc"
+  },
+  {
+    "nombre": "Pokemon Sword",
+    "plataforma": "Nintendo Switch",
+    "genero": "Rol",
+    "anio": "15 de noviembre de 2019",
+    "portada": "https://swordshield.pokemon.com/assets/img/common/packshot/en-us/packshot_sword.png",
+    "descripcion": "Espada y Escudo se llevan a cabo en la región de Galar (una región basada en Reino Unido), una extensión de tierra grande y alta, y una de las muchas regiones del mundo Pokémon. La región en sí y sus muchos puntos de referencia parecen estar fuertemente inspirados por Gran Bretaña.1​2​ Los juegos siguen la tendencia tradicional de tres iniciales: Grookey de tipo Planta, Scorbunny de tipo Fuego y Sobble de tipo Agua.",
+    "trailer": "https://www.youtube.com/watch?v=fPO2ouGn0lA"
+  },
+  {
+    "nombre": "Halo 5: Guardians",
+    "plataforma": "Xbox One",
+    "genero": "FPS",
+    "anio": "27 de octubre de 2015",
+    "portada": "https://as.com/meristation/imagenes/2015/04/29/noticia/1430290800_810970_1532453810_sumario_normal.jpg",
+    "descripcion": "Halo 5: Guardians ofrece experiencias multijugador épicas que incluyen distintos modos, completas herramientas de construcción de niveles y un nuevo capítulo en la saga del Jefe Maestro. Y ahora, con Xbox One X, los jugadores pueden disfrutar de mejoras gráficas, resolución de hasta 4K y mayor fidelidad visual que hacen que el juego luzca mejor que nunca; todo ello manteniendo una tasa constante de 60 imágenes por segundo para conseguir la jugabilidad más fluida posible.",
+    "trailer": "https://www.youtube.com/watch?v=Rh_NXwqFvHc"
+  },
+  {
+    "nombre": "Spider-Man",
+    "plataforma": "Playstation 4",
+    "genero": "Acción-Aventura",
+    "anio": "7 de septiembre de 2018",
+    "portada": "https://as.com/meristation/imagenes/2019/08/28/noticias/1567005080_766698_1567005232_noticia_normal.jpg",
+    "descripcion": "Vive la adrenalina de la edición Juego del año de Marvel’s Spider-Man, que incluye el juego completo, además del contenido descargable completo de los arcos argumentales de Marvel’s Spider-Man: La ciudad que nunca duerme.",
+    "trailer": "https://www.youtube.com/watch?v=q4GdJVvdxss"
+  },
+  {
+    "nombre": "Half Life: ALYX",
+    "plataforma": "PC",
+    "genero": "FPS",
+    "anio": "23 de marzo de 2020",
+    "portada": "https://vignette.wikia.nocookie.net/halflife7283/images/4/4a/Half-Life_Alyx_portada.png/revision/latest?cb=20191122104644&path-prefix=es",
+    "descripcion": "Half-Life: Alyx es el regreso de Valve en realidad virtual a la serie Half-Life. Es la historia de una lucha imposible contra una cruel raza alienígena conocida como la Alianza que se desarrolla entre los acontecimientos de Half-Life y Half-Life 2.\n\nJugando como Alyx Vance, eres la única oportunidad de supervivencia de la humanidad. El control de la Alianza sobre el planeta desde el incidente de Black Mesa solo se ha fortalecido a medida que acorralan a los habitantes que quedan en las ciudades. Entre ellos se encuentran algunos de los mejores científicos de la Tierra: tú y tu padre, el Dr. Eli Vance.",
+    "trailer": "https://www.youtube.com/watch?v=O2W0N3uKXmo"
+  },
+  {
+    "nombre": "The Legend Of Zelda: Breath of The Wild",
+    "plataforma": "Nintendo Switch",
+    "genero": "Acción-Aventura",
+    "anio": "3 de marzo de 2017",
+    "portada": "https://www.zelda.com/breath-of-the-wild/assets/icons/BOTW-Share_icon.jpg",
+    "descripcion": "Olvida todo lo que sabes acerca de los juegos de la serie The Legend of Zelda. Explora y descubre en un mundo lleno de aventuras en The Legend of Zelda: Breath of the Wild, un juego nuevo que rompe los esquemas de la serie aclamada. Viaja a través de praderas, bosques y alcanza cimas de montañas mientras descubres cómo cayó en la ruina el reino de Hyrule en esta emocionante aventura al aire libre. Ahora con Nintendo Switch, tu aventura será más libre y extensa que nunca. Lleva tu consola y vive una gran aventura como Link donde y cuando quieras.",
+    "trailer": "https://www.youtube.com/watch?v=zw47_q9wbBE"
+  },
+  {
+    "nombre": "Forza Horizon 4",
+    "plataforma": "Xbox One",
+    "genero": "Carreras",
+    "anio": "28 de septiembre de 2018",
+    "portada": "https://www.somosxbox.com/wp-content/uploads/2020/02/Forza-Horizon-4-PS4-Release.jpg?width=1200&enable=upscale",
+    "descripcion": "Las temporadas dinámicas lo cambian todo en el mejor festival automovilístico del mundo. Juega solo o en equipo para explorar la hermosa Gran Bretaña en un mundo abierto y compartido. Colecciona, modifica y conduce más de 450 autos. Compite, crea, explora y escoge tu propio camino para convertirte en una superestrella de Horizon. El paquete digital Forza Horizon 4 edición estándar incluye el juego completo Forza Horizon 4 y el paquete de autos Fórmula Drift.",
+    "trailer": "https://www.youtube.com/watch?v=zJ477xAIlgU"
+  },
+  {
+    "nombre": "Uncharted 4",
+    "plataforma": "Playstation 4",
+    "genero": "Shooter",
+    "anio": "10 de mayo de 2016",
+    "portada": "https://media.playstation.com/is/image/SCEA/uncharted-4-a-thiefs-end-listing-thumb-01-ps4-us-09jun14?$Icon$",
+    "descripcion": "Muchos años después de su última aventura, el cazafortunas jubilado, Nathan Drake, es obligado a regresar al mundo de ladrones. Con riesgos mucho más personales, Drake comienza un viaje por el mundo en busca de una conspiración histórica detrás de un tesoro de pirata legendario. Su mayor aventura pondrá a prueba sus límites físicos, su poder de decisión, y por último aquello que es capaz de sacrificar para salvar a las personas que ama.",
+    "trailer": "https://www.youtube.com/watch?v=y1Rx-Bbht5E"
+  },
+  {
+    "nombre": "A Hat in Time",
+    "plataforma": "PC",
+    "genero": "Plataformas",
+    "anio": "5 de octubre de 2017",
+    "portada": "https://store-images.s-microsoft.com/image/apps.12367.63512599203033356.81dab591-4682-4592-bc32-cae9aff26cf2.1a370c08-6e4c-4679-8475-4b3f459e1509",
+    "descripcion": "A Hat in Time es un plataformas en 3D mono hasta decir basta. Su protagonista es una niña que cose gorros que le otorgan poderes mágicos. Explora a tus anchas mundos inmensos y recoge fragmentos de tiempo para avanzar en la aventura.",
+    "trailer": "https://www.youtube.com/watch?v=1wknUs-hRwo"
+  },
+  {
+    "nombre": "Splatoon 2",
+    "plataforma": "Nintendo Switch",
+    "genero": "FPS",
+    "anio": "21 de julio de 2017",
+    "portada": "https://media.vandal.net/m/45239/splatoon-2-2017717122352_25.jpg",
+    "descripcion": "Splatoon 2 es un videojuego de acción dentro del género shooter competitivo en tercera persona, desarrollado y producido por Nintendo como juego exclusivo de su plataforma Nintendo Switch.\nEl éxito de Wii U vuelve a Nintendo Switch con una entrega plagada de novedades que refina la propuesta de acción colorida y desenfadada de la primera parte. Volviendo a las guerras de tinta con calamares y personajes únicos, Splatoon 2 sigue apostando por la jugabilidad en tercera persona con interesantes mecánicas, competiciones online y mucho humor.",
+    "trailer": "https://www.youtube.com/watch?v=ylBYfndq8fU"
+  },
+  {
+    "nombre": "Quantum Break",
+    "plataforma": "Xbox One",
+    "genero": "Acción-Aventura",
+    "anio": "5 de abril de 2016",
+    "portada": "https://i.blogs.es/c54c19/300316-quantum-review/1366_2000.jpg",
+    "descripcion": "De mano de los maestros de la acción cinematográfica Remedy Entertainment, creadores de títulos como Max Payne y Alan Wake, llega Quantum Break, un éxito del suspenso amplificado en el tiempo. La experiencia Quantum Break es parte juego y parte programa de acción real, y las decisiones que tomes en una afectarán de forma dramática a la otra.",
+    "trailer": "https://www.youtube.com/watch?v=CrGK5pker2A"
+  },
+  {
+    "nombre": "Devil may cry 5",
+    "plataforma": "Playstation 4",
+    "genero": "Hack and Slash",
+    "anio": "8 de marzo de 2019",
+    "portada": "https://generacionxbox.com/wp-content/uploads/2018/06/Devil-may-cry-5-gx-940x529.jpg.webp",
+    "descripcion": "Devil May Cry 5, una nueva entrega de esta legendaria serie de acción, une su característica combinación de acción frenética y personajes de otro mundo con la última tecnología en videojuegos de Capcom para crear una obra maestra de la acción-aventura revolucionaria gráficamente.",
+    "trailer": "https://www.youtube.com/watch?v=dG6_CAdiLPM"
+  },
+  {
+    "nombre": "Sonic Generations",
+    "plataforma": "PC",
+    "genero": "Plataformas",
+    "anio": "3 de noviembre de 2011",
+    "portada": "https://images-na.ssl-images-amazon.com/images/I/51Rxz-ba97L._AC_.jpg",
+    "descripcion": "¡Celebra el 20 aniversario de Sonic en una aventura totalmente nueva que ofrece una experiencia definitiva tanto a los nuevos como a los más veteranos fans!",
+    "trailer": "https://www.youtube.com/watch?v=UwGfnYH967s"
+  },
+  {
+    "nombre": "Animal Crosing: New Horizons",
+    "plataforma": "Nintendo Switch",
+    "genero": "Simulador",
+    "anio": "20 de marzo de 2020",
+    "portada": "https://http2.mlstatic.com/animal-crossing-new-horizons-nintendo-switch-juego-fisico-D_NQ_NP_979728-MLA41003615666_032020-F.jpg",
+    "descripcion": "Escapa a una isla desierta y crea tu propio paraíso mientras exploras, creas y personalizas en el juego Animal Crossing: New Horizons. Tu isla cuenta con riquezas naturales que podrás utilizar para construir de todo, desde herramientas hasta objetos que harán tu vida más placentera. Podrás cazar insectos al amanecer, decorar tu pequeño paraíso durante el día o disfrutar del atardecer en la playa mientras pescas en el océano. La hora del día y la estación coinciden con las de la vida real, así que cada día en la isla es una oportunidad para encontrar y descubrir sorpresas.",
+    "trailer": "https://www.youtube.com/watch?v=_3YNL0OWio0"
+  },
+  {
+    "nombre": "Sunset overdrive",
+    "plataforma": "Xbox One",
+    "genero": "Acción-Aventura",
+    "anio": "28 de octubre de 2014",
+    "portada": "https://i.blogs.es/edb886/maxresdefault-5-/450_1000.jpg",
+    "descripcion": "Sunset Overdrive transforma un apocalipsis en un mundo abierto en una zona de recreo táctica. Corre, grinda y corre por las paredes en Sunset City mientras usas un arsenal devastador y muy poco convencional. Con hiperagilidad, armas únicas y habilidades especiales personalizables, Sunset Overdrive reescribe las reglas de los shooters tradicionales para ofrecer una aventura explosiva e irreverente en pleno fin de los tiempos.",
+    "trailer": "https://www.youtube.com/watch?v=W5ddpEO1CK4"
+  },
+  {
+    "nombre": "The last of us part 2",
+    "plataforma": "Playstation 4",
+    "genero": "Supervivencia",
+    "anio": "19 de junio de 2020",
+    "portada": "https://www.playerone.vg/wp-content/uploads/2019/07/2019-07-29_14-51-02-696x378.jpg",
+    "descripcion": "Cinco años después de aquel peligroso viaje por un Estados Unidos que ha sido azotado por una pandemia, Ellie y Joel echaron raíces en Jackson, Wyoming. Vivir en una comunidad próspera de supervivientes les dio paz y estabilidad a pesar de la amenaza constante de los infectados y de otros supervivientes más desesperados. Cuando un evento violento altera la paz, Ellie emprende un viaje incansable en busca de justicia y de encontrar un cierre. Mientras caza uno a uno a los responsables, deberá enfrentar las devastadoras consecuencias físicas y emocionales de sus acciones.",
+    "trailer": "https://www.youtube.com/watch?v=btmN-bWwv0A"
+  },
+  {
+    "nombre": "The Witcher 3: Wild Hunt",
+    "plataforma": "PC",
+    "genero": "Rol",
+    "anio": "18 de mayo de 2015",
+    "portada": "https://vignette.wikia.nocookie.net/brujo/images/8/81/The_Witcher_3_Portada.png/revision/latest/top-crop/width/360/height/450?cb=20190902194644&path-prefix=es",
+    "descripcion": "Mientras la guerra se extiende por los Reinos del Norte, aceptarás el contrato de tu vida: encontrar a la niña de la profecía, un arma viviente que puede alterar el mundo tal y como lo conocemos.",
+    "trailer": "https://www.youtube.com/watch?v=c0i88t0Kacs"
+  },
+  {
+    "nombre": "Super Smash Bros. Ultimate",
+    "plataforma": "Nintendo Switch",
+    "genero": "Pelea",
+    "anio": "7 de diciembre de 2018",
+    "portada": "https://media.vandal.net/m/58489/super-smash-bros-ultimate-2018112212474987_1.jpg",
+    "descripcion": "¡Un auténtico duelo de titanes de los videojuegos que podrás jugar cuando quieras y donde quieras! Lanza a tus rivales del escenario usando uno de los nuevos personajes como Simon Belmont o King K. Rool que se unen a Inkling, Ridley y a todos los combatientes presentes en la historia de Super Smash Bros. Disfruta de la velocidad mejorada y combate en los nuevos escenarios basados en las series de Castlevania, Super Mario Odyssey y otras.",
+    "trailer": "https://www.youtube.com/watch?v=EXnbMp1yr1k"
+  },
+  {
+    "nombre": "DOOM Eternal",
+    "plataforma": "Xbox One",
+    "genero": "FPS",
+    "anio": "20 de marzo de 2020",
+    "portada": "https://images-na.ssl-images-amazon.com/images/I/81DHDcyyQqL._SL1500_.jpg",
+    "descripcion": "Los ejércitos del infierno han invadido la Tierra. Ponte en la piel del Slayer en una épica campaña para un jugador y cruza dimensiones para detener la destrucción definitiva de la humanidad.\n\nNo le tienen miedo a nada... salvo a ti.\n\nDisfruta de la mejor combinación de velocidad y potencia en DOOM Eternal, que trae un salto cualitativo del combate en primera persona.\n\nDesvela los orígenes del Slayer y su eterna misión de ARRASAR EL INFIERNO.",
+    "trailer": "https://www.youtube.com/watch?v=SgU8trbGgNI"
+  },
+  {
+    "nombre": "Crash Team Racing Nitro-Fueled",
+    "plataforma": "Playstation 4",
+    "genero": "Carreras",
+    "anio": "20 de junio de 2019",
+    "portada": "https://mlee6yi4u4gb.i.optimole.com/wl0pJw-2H3ZKK_U/w:auto/h:auto/q:55/https://juegosdigitales.org/wp-content/uploads/2019/06/comprar-crash-team-racing-ps4-digital-argentina.jpg",
+    "descripcion": "¡Crash vuelve al volante! Prepárate para desmelenarte con Crash™ Team Racing Nitro-Fueled. La auténtica experiencia de CTR y mucho más contenido remasterizado al máximo de revoluciones:¡Crash vuelve al volante! Prepárate para desmelenarte con Crash™ Team Racing Nitro-Fueled. La auténtica experiencia de CTR y mucho más contenido remasterizado al máximo de revoluciones:\n\n- Calienta motores con los modos de juego, personajes, circuitos, potenciadores, armas y controles originales\n- Superderrapa hacia la gloria con karts, arenas y circuitos adicionales de Crash™ Nitro Kart\n- Compite online con tus amigos y arrasa con la competencia en las clasificaciones online\n- Personaliza tu vehículo y tu personaje con objetos para karts y aspectos de locura",
+    "trailer": "https://www.youtube.com/watch?v=dr2BCMRk_xc"
+  },
+  {
+    "nombre": "Crypt of the Necrodancer",
+    "plataforma": "PC",
+    "genero": "Ritmo",
+    "anio": "23 de abril de 2015",
+    "portada": "https://cdn-products.eneba.com/resized-products/AFDomMypQZq_WsziSuQHCv-SYs2OkHakFhYB1y_iZRU_390x400_1x-0.jpeg",
+    "descripcion": "Crypt of the NecroDancer es un galardonado juego hardcore estilo roguelike rítmico. ¡Muévete con la música y da palizas con el ritmo! Baila con la epica música de Danny Baranowsky, ¡o elige canciones de tu propia colección MP3!",
+    "trailer": "https://www.youtube.com/watch?v=u_avgU1u6yM"
+  },
+  {
+    "nombre": "Luigi's Mansion 3",
+    "plataforma": "Nintendo Switch",
+    "genero": "Acción-Aventura",
+    "anio": "31 de octubre de 2019",
+    "portada": "https://d26lpennugtm8s.cloudfront.net/stores/113/368/products/luigimansion31-01c8525a655a93c6ce15725372841242-640-0.png",
+    "descripcion": "Luigi ha sido invitado al hotel El Gran Descanso Real, ¡pero cuando Mario y sus amigos desaparecen, nuestro héroe de verde tendrá que superar sus miedos para poder salvarlos! Ataca, sopla y aspira a los fantasmas con la nueva Succionaentes GO-1000 y trabaja en conjunto con Gomiluigi para superar los complicados artilugios y traviesos jefes de cada piso temático. Entra a la Torre del Horror y forma equipo con 8 jugadores para juego cooperativo en modo local o en línea.",
+    "trailer": "https://www.youtube.com/watch?v=RSGgCfbYrg0"
+  },
+  {
+    "nombre": "Hellblade: Senua's Sacrifice",
+    "plataforma": "Xbox One",
+    "genero": "Acción-Aventura",
+    "anio": "11 de abril de 2018",
+    "portada": "https://media.vandal.net/m/25566/hellblade-senuas-sacrifice-201787132929_6.jpg",
+    "descripcion": "Ambientado en la era vikinga, una guerrera celta destrozada se embarca en una misión onírica obsesiva para luchar por el alma de su difunto amante.\n\nCreado en colaboración con neurocientíficos y personas que sufren psicosis, Hellblade: El Sacrificio de Senua te sumerge de lleno en la furia melancólica de la mente desquebrajada de Senua.",
+    "trailer": "https://www.youtube.com/watch?v=LCC5sEtOnkU"
+  },
+  {
+    "nombre": "UNCHARTED: The Lost Legacy",
+    "plataforma": "Playstation 4",
+    "genero": "Shooter",
+    "anio": "22 de agosto de 2017",
+    "portada": "https://images-na.ssl-images-amazon.com/images/I/714EL%2BriydL._SX342_.jpg",
+    "descripcion": "Con el objetivo de recuperar un antiguo artefacto e impedir que llegue a manos de un despiadado belicista, Chloe debe conseguir la ayuda de la famosa mercenaria Nadine Ross y aventurarse en los Ghats occidentales en India para encontrar el colmillo dorado de Ganesh. Al adentrarse en la aventura más importante de su vida, Chloe deberá enfrentar su pasado y decidir qué está dispuesta a sacrificar con tal de forjar su propio legado.",
+    "trailer": "https://www.youtube.com/watch?v=-PhhiKPHTWM"
+  },
+  {
+    "nombre": "Injustice: Gods Among Us Ultimate Edition",
+    "plataforma": "PC",
+    "genero": "Pelea",
+    "anio": "12 de noviembre de 2013",
+    "portada": "https://www.enlacehw.com/wp-content/uploads/2020/06/injustice-gods-among-us-ultimate-edition-gratis.jpg",
+    "descripcion": "Injustice: Gods Among Us Ultimate Edition es la versión mejorada de la atrevida franquicia del género de videojuegos de combate creada por NetherRealm Studios. Con seis nuevos personajes de juego, mas de 30 nuevos skins y 60 nuevas misiones de los Laboratorios S.T.A.R., esta edición viene pegando duro. Además de íconos de DC Comics tales como Batman, The Joker, Green Lantern, The Flash, Superman y Wonder Woman, este último título del galardonado estudio presenta una historia profunda y original. Heroes y villanos se enfrentarán en épicas batallas a una enorme escala en un mundo donde la línea entre el bien y el mal ha sido borrada..",
+    "trailer": "https://www.youtube.com/watch?v=hMkTQSbE6Bc"
+  },
+  {
+    "nombre": "Mario Kart 8 Deluxe",
+    "plataforma": "Nintendo Switch",
+    "genero": "Carreras",
+    "anio": "27 de abril de 2017",
+    "portada": "https://images-na.ssl-images-amazon.com/images/I/91KQmjDxj-L._AC_SY500_.jpg",
+    "descripcion": "¡Calienta motores en la versión definitiva de Mario Kart™ 8 y juega donde y cuando quieras! Compite con tus amigos en carreras o en el modo batalla, que incluye circuitos nuevos y otros ya conocidos. Juega en el modo local y en 1080p en partidas de hasta 4 jugadores en el modo televisor. Todos los circuitos de la versión de Wii U, incluyendo el contenido descargable, están disponibles. Además, ¡los inklings aparecen como personajes invitados junto con otro personajes de juegos anteriores, como el Rey Bú, Huesitos y Bowser Jr!",
+    "trailer": "https://www.youtube.com/watch?v=tKlRN2YpxRE"
+  },
+  {
+    "nombre": "Keep Talking and Nobody Explodes",
+    "plataforma": "PC",
+    "genero": "Puzzle",
+    "anio": "8 de octurbe de 2015",
+    "portada": "https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_KeepTalkingAndNobodyExplodes.jpg",
+    "descripcion": "En Keep Talking And Nobody Explodes, un jugador está atrapado en una habitación con una bomba de tiempo que tendrán que desactivar. Los otros jugadores son los “Expertos” que tendrán que dar las instrucciones para desactivar la bomba descifrando la información encontrada en el Manual de Desactivación de Bombas. Pero hay una trampa: los Expertos no pueden ver la bomba, así que todos tendrán que hablarlo - ¡rápido!",
+    "trailer": "https://www.youtube.com/watch?v=1-MM1UTtjyU&t=1s"
+  },
+  {
+    "nombre": "League Of Legends",
+    "plataforma": "PC",
+    "genero": "Online",
+    "anio": "27 de octubre de 2009",
+    "portada": "https://pbs.twimg.com/media/DilRsToWAAYsC20.jpg",
+    "descripcion": "League of Legends es un juego de estrategia por equipos en el que dos equipos conformados por cinco poderosos campeones se enfrentan para destruir la base del otro. Elige de entre más de 140 campeones para realizar jugadas épicas, asegurar asesinatos y destruir torretas mientras avanzas hacia la victoria.",
+    "trailer": "https://www.youtube.com/watch?v=aR-KAldshAE"
+  },
+  {
+    "nombre": "Valorant",
+    "plataforma": "PC",
+    "genero": "Online",
+    "anio": "2 de junio de 2020",
+    "portada": "https://static1.millenium.gg/articles/0/17/67/0/@/83238-1322778-beta-key-art-valorant-1-orig-1-article_m-1.jpg",
+    "descripcion": "VALORANT es el escenario competitivo global que buscan. Se trata de un shooter táctico 5v5. Su misión es colocar o desactivar la Spike en una serie de rondas en las que solo contarán con una vida en cada una. La victoria se la lleva el primer equipo que gane 13 rondas. Aparte de las armas y las balas, tendrán a un agente con habilidades letales, adaptables y ágiles que les brindará oportunidades para demostrar su dominio de las armas.",
+    "trailer": "https://www.youtube.com/watch?v=IhhjcB2ZjIM"
+  },
+  {
+    "nombre": "Counter-Strike: Global Offensive",
+    "plataforma": "PC",
+    "genero": "Online",
+    "anio": "21 de agosto de 2012",
+    "portada": "https://steamcdn-a.akamaihd.net/steam/apps/730/header.jpg?t=1592263625",
+    "descripcion": "Counter-Strike: Global Offensive (CS: GO) ampliará la jugabilidad de acción por equipos que fue pionera en su lanzamiento hace 12 años. CS: GO incluirá nuevos mapas, personajes y armas y ofrecerá versiones actualizadas del contenido clásico de CS (de_dust2, etc.).",
+    "trailer": "https://www.youtube.com/watch?v=edYCtaNueQY"
+  },
+  {
+    "nombre": "Playerunknown’s Battlegrounds",
+    "plataforma": "PC",
+    "genero": "Online",
+    "anio": "30 de julio de 2016",
+    "portada": "https://steamcdn-a.akamaihd.net/steam/apps/578080/header.jpg?t=1592294718",
+    "descripcion": "PLAYERUNKNOWN’S BATTLEGROUNDS es un shooter basado en el modo Battle Royale que está siendo desarrollado a través de la retroalimentación con la comunidad.\nComenzando de la nada, los usuarios tienen que luchar uno contra el otro para localizar armas y suministros para ser el único sobreviviente.\nEste juego realista de alta tensión se establece en una isla masiva de 8x8 km con un nivel de detalle que muestra las capacidades de Unreal Engine 4.\n\nComo creador del modo de juego Battle Royale de las series ARMA y H1Z1: King of the Kill, Greene está desarrollando el juego conjuntamente con un equipo veterano de la empresa Bluehole para crear la más diversa y robusta experiencia de Battle Royale hasta la fecha\n\nNo solo un juego. Esto es BATTLE ROYALE",
+    "trailer": "https://www.youtube.com/watch?v=URBy9t6e8rY"
+  },
+  {
+    "nombre": "Teamfight Tactics",
+    "plataforma": "PC",
+    "genero": "Online",
+    "anio": "26 de junio de 2019",
+    "portada": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltfe81204b8ec63e0e/5e6184a918d3347ceffbbd6d/TFT.S3_GALAXIES.ARTICLE-2.jpg",
+    "descripcion": "TFT es un juego de estrategia por rondas en el que te enfrentarás a siete oponentes en una competencia por crear un poderoso equipo que peleará por ti. Tu objetivo: ser el último en quedar en pie.",
+    "trailer": "https://www.youtube.com/watch?v=liNLLx874g4"
+  }
+]
